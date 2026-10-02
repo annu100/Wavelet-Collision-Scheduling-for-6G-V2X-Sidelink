@@ -19,4 +19,4 @@ campaign is resumable, e.g. `python3 experiments/run_3gpp.py main140`).
 
 Scope: SL-Mode2Sim models periodic 300-byte traffic with a 100-ms RRI and no HARQ retransmissions; the BLER-curve
 parameters, Rician K-factor and in-band-emission model are stated assumptions (supplement, Sec. S-III and S-VI).
-Cross-validation on ns-3 5G-LENA is recommended before publication.
+
